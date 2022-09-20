@@ -1,0 +1,2 @@
+c:\CursoCs\JokenPo\JokenPo\obj\Release\JokenPo.csproj.AssemblyReference.cache
+c:\CursoCs\JokenPo\JokenPo\obj\Release\JokenPo.csproj.SuggestedBindingRedirects.cache

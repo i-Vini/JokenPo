@@ -1,0 +1,11 @@
+C:\CursoCs\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.AssemblyReference.cache
+C:\CursoCs\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.SuggestedBindingRedirects.cache
+C:\CursoCs\JokenPo\JokenPo\obj\Debug\JokenPo.Form1.resources
+C:\CursoCs\JokenPo\JokenPo\obj\Debug\JokenPo.Properties.Resources.resources
+C:\CursoCs\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.GenerateResource.cache
+C:\CursoCs\JokenPo\JokenPo\obj\Debug\JokenPo.csproj.CoreCompileInputs.cache
+C:\CursoCs\JokenPo\JokenPo\bin\Debug\JokenPo.exe.config
+C:\CursoCs\JokenPo\JokenPo\bin\Debug\JokenPo.exe
+C:\CursoCs\JokenPo\JokenPo\bin\Debug\JokenPo.pdb
+C:\CursoCs\JokenPo\JokenPo\obj\Debug\JokenPo.exe
+C:\CursoCs\JokenPo\JokenPo\obj\Debug\JokenPo.pdb
